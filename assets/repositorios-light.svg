@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="52" viewBox="0 0 300 52">
+  <path d="M16 1H293L299 7V36Q299 51 284 51H7L1 45V16Q1 1 16 1Z"
+        fill="#F2D5D9" stroke="#9A354B" stroke-opacity=".5"/>
+  <path d="M293 1L299 7M1 45L7 51" fill="none" stroke="#9A354B" stroke-width="1.5"/>
+  <rect x="12" y="11" width="30" height="30" rx="10" fill="#F8E5E6"/>
+  <path d="M20 21h6l2 2h6v9H20Z" fill="none" stroke="#9A354B"
+        stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="54" y="32" fill="#34161E" font-family="Segoe UI, Arial, sans-serif"
+        font-size="15" font-weight="600">Explorar meus repositórios</text>
+  <path d="M264 26h14m-5-5 5 5-5 5" fill="none" stroke="#9A354B"
+        stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
