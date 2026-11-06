@@ -227,7 +227,7 @@
   <path d="M367 192H828" fill="none" stroke="#FFA6AE" stroke-opacity=".31"/>
   <text x="367" y="224" font-size="17" fill="#FFF2F3">Desenvolvimento web e desktop,</text>
   <text x="367" y="248" font-size="17" fill="#FFF2F3">suporte técnico e infraestrutura.</text>
-  <rect x="367" y="271" width="117" height="30" rx="15" fill="#40272E"/>
+  <rect x="367" y="271" width="130" height="30" rx="15" fill="#40272E"/>
   <circle cx="384" cy="286" r="3.5" fill="#FFA6AE"/>
   <text x="395" y="291" font-size="14" font-weight="600" fill="#FFF2F3">Rio de Janeiro</text>
 </g>
