@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="421" viewBox="0 0 880 421">
+<path d="M24 1H847L879 33V397Q879 420 856 420H33L1 388V24Q1 1 24 1Z" fill="#181013" stroke="#FFA6AE" stroke-opacity=".52" stroke-width="2"/>
+<g font-family="Segoe UI, Arial, sans-serif" fill="#FFF2F3">
+<text x="29" y="49" font-size="32" font-weight="700">Habilidades</text>
+<path d="M846 12L867 33V48M14 388L33 407H54" fill="none" stroke="#FFA6AE" stroke-width="2"/>
+<path d="M46 72H413l20 20v110q0 20-20 20h-367q-20 0-20-20V92q0-20 20-20Z" fill="#27191E"/>
+<rect x="42" y="87" width="45" height="45" rx="15" fill="#40272E"/>
+<path d="M8 6 2 12l6 6m8-12 6 6-6 6m-2-15-4 18" transform="translate(52.5 97.5)" fill="none" stroke="#FFA6AE" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="99" y="116" font-size="22" font-weight="700">Desenvolvimento</text>
+<path d="M413 72l20 20v12" fill="none" stroke="#FFA6AE" stroke-opacity=".7" stroke-width="2"/>
+<rect x="42" y="147" width="75" height="27" rx="13.5" fill="#40272E"/>
+<path d="M3 2h10l-1 11-4 2-4-2zM6 6h4m-4 3h4" transform="translate(50 154) scale(.78)" fill="none" stroke="#FFA6AE" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="165.5" font-size="14" fill="#FFF2F3">HTML</text>
+<rect x="124" y="147" width="61" height="27" rx="13.5" fill="#40272E"/>
+<path d="M3 2h10l-1 11-4 2-4-2zM6 6h4l-1 4H6" transform="translate(132 154) scale(.78)" fill="none" stroke="#FFA6AE" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="148" y="165.5" font-size="14" fill="#FFF2F3">CSS</text>
+<rect x="192" y="147" width="98" height="27" rx="13.5" fill="#40272E"/>
+<path d="M2 2h12v12H2zM7 6v4l-2 1m6-5H9v2h2v3H9" transform="translate(200 154) scale(.78)" fill="none" stroke="#FFA6AE" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="216" y="165.5" font-size="14" fill="#FFF2F3">JavaScript</text>
+<rect x="297" y="147" width="94" height="27" rx="13.5" fill="#40272E"/>
+<path d="M4 4 2 10l3 2 1-2h4l1 2 3-2-2-6-3-1m-4 1 2-1m-1 4v1m4-1v1" transform="translate(305 154) scale(.78)" fill="none" stroke="#FFA6AE" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="321" y="165.5" font-size="14" fill="#FFF2F3">discord.js</text>
+<rect x="42" y="181" width="47" height="27" rx="13.5" fill="#40272E"/>
+<path d="M12 4a5 5 0 1 0 0 8" transform="translate(50 188) scale(.78)" fill="none" stroke="#FFA6AE" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="199.5" font-size="14" fill="#FFF2F3">C</text>
+<rect x="96" y="181" width="55" height="27" rx="13.5" fill="#40272E"/>
+<path d="M8 4a4 4 0 1 0 0 8m2-8-1 8m4-8-1 8M8 7h7m-7 3h7" transform="translate(104 188) scale(.78)" fill="none" stroke="#FFA6AE" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="120" y="199.5" font-size="14" fill="#FFF2F3">C#</text>
+<rect x="158" y="181" width="136" height="27" rx="13.5" fill="#40272E"/>
+<path d="M2 3h12v10H2zM2 6h12m-8 0v7" transform="translate(166 188) scale(.78)" fill="none" stroke="#FFA6AE" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="182" y="199.5" font-size="14" fill="#FFF2F3">Windows Forms</text>
+<rect x="301" y="181" width="110" height="27" rx="13.5" fill="#40272E"/>
+<path d="M2 4a6 2 0 0 1 12 0v8a6 2 0 0 1-12 0zM2 4a6 2 0 0 0 12 0M2 8a6 2 0 0 0 12 0" transform="translate(309 188) scale(.78)" fill="none" stroke="#FFA6AE" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="325" y="199.5" font-size="14" fill="#FFF2F3">PostgreSQL</text>
+<path d="M467 72H834l20 20v110q0 20-20 20h-367q-20 0-20-20V92q0-20 20-20Z" fill="#27191E"/>
+<rect x="463" y="87" width="45" height="45" rx="15" fill="#40272E"/>
+<path d="M3 4h18v13H3zM8 21h8m-4-4v4" transform="translate(473.5 97.5)" fill="none" stroke="#FFD1C8" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="520" y="116" font-size="22" font-weight="700">Suporte e sistemas</text>
+<path d="M834 72l20 20v12" fill="none" stroke="#FFD1C8" stroke-opacity=".7" stroke-width="2"/>
+<rect x="463" y="147" width="94" height="27" rx="13.5" fill="#40272E"/>
+<path d="M2 3l12-2v14L2 13zM2 8h12M7 2v12" transform="translate(471 154) scale(.78)" fill="none" stroke="#FFD1C8" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="487" y="165.5" font-size="14" fill="#FFF2F3">Windows</text>
+<rect x="564" y="147" width="70" height="27" rx="13.5" fill="#40272E"/>
+<path d="M5 7V5a3 3 0 0 1 6 0v2l2 5-2 2H5l-2-2zm2-1h2" transform="translate(572 154) scale(.78)" fill="none" stroke="#FFD1C8" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="588" y="165.5" font-size="14" fill="#FFF2F3">Linux</text>
+<rect x="641" y="147" width="124" height="27" rx="13.5" fill="#40272E"/>
+<path d="M2 2h5v5H2zM9 2h5v5H9zM2 9h5v5H2zM9 9h5v5H9z" transform="translate(649 154) scale(.78)" fill="none" stroke="#FFD1C8" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="665" y="165.5" font-size="14" fill="#FFF2F3">Microsoft 365</text>
+<rect x="463" y="181" width="100" height="27" rx="13.5" fill="#40272E"/>
+<path d="M2 9V7a6 6 0 0 1 12 0v3l-3 4H8M2 8h3v4H2zM11 8h3v4h-3z" transform="translate(471 188) scale(.78)" fill="none" stroke="#FFD1C8" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="487" y="199.5" font-size="14" fill="#FFF2F3">Help Desk</text>
+<path d="M46 236H413l20 20v110q0 20-20 20h-367q-20 0-20-20V256q0-20 20-20Z" fill="#27191E"/>
+<rect x="42" y="251" width="45" height="45" rx="15" fill="#40272E"/>
+<path d="M9 2h6v5H9zM2 17h6v5H2zM16 17h6v5h-6zM12 7v5m-7 5v-5h14v5" transform="translate(52.5 261.5)" fill="none" stroke="#FFD1C8" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="99" y="280" font-size="22" font-weight="700">Redes e infraestrutura</text>
+<path d="M413 236l20 20v12" fill="none" stroke="#FFD1C8" stroke-opacity=".7" stroke-width="2"/>
+<rect x="42" y="311" width="79" height="27" rx="13.5" fill="#40272E"/>
+<path d="M6 2h4v4H6zM2 10h4v4H2zM10 10h4v4h-4zM8 6v2m-4 2V8h8v2" transform="translate(50 318) scale(.78)" fill="none" stroke="#FFD1C8" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="329.5" font-size="14" fill="#FFF2F3">TCP/IP</text>
+<rect x="128" y="311" width="65" height="27" rx="13.5" fill="#40272E"/>
+<path d="M14 8a6 6 0 1 1-12 0 6 6 0 0 1 12 0ZM2 8h12M8 2a12 12 0 0 1 0 12 12 12 0 0 1 0-12" transform="translate(136 318) scale(.78)" fill="none" stroke="#FFD1C8" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="152" y="329.5" font-size="14" fill="#FFF2F3">DNS</text>
+<rect x="200" y="311" width="72" height="27" rx="13.5" fill="#40272E"/>
+<path d="M2 5h12l-3-3m3 9H2l3 3" transform="translate(208 318) scale(.78)" fill="none" stroke="#FFD1C8" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="224" y="329.5" font-size="14" fill="#FFF2F3">Proxy</text>
+<rect x="42" y="345" width="192" height="27" rx="13.5" fill="#40272E"/>
+<path d="M2 4h4v6H2zm8 2h4v6h-4zM6 7h2v2h2" transform="translate(50 352) scale(.78)" fill="none" stroke="#FFD1C8" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="363.5" font-size="14" fill="#FFF2F3">Cabeamento estruturado</text>
+<path d="M467 236H834l20 20v110q0 20-20 20h-367q-20 0-20-20V256q0-20 20-20Z" fill="#27191E"/>
+<rect x="463" y="251" width="45" height="45" rx="15" fill="#40272E"/>
+<path d="M3 4h18v16H3zM3 9h18m-9 0v11" transform="translate(473.5 261.5)" fill="none" stroke="#FFA6AE" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="520" y="280" font-size="22" font-weight="700">Design de interfaces</text>
+<path d="M834 236l20 20v12" fill="none" stroke="#FFA6AE" stroke-opacity=".7" stroke-width="2"/>
+<rect x="463" y="311" width="75" height="27" rx="13.5" fill="#40272E"/>
+<path d="M6 1h4a2.5 2.5 0 0 1 0 5H6a2.5 2.5 0 0 1 0-5Zm0 5h2v8H6a2 2 0 0 1 0-4 2 2 0 0 1 0-4Zm6 2a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z" transform="translate(471 318) scale(.78)" fill="none" stroke="#FFA6AE" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="487" y="329.5" font-size="14" fill="#FFF2F3">Figma</text>
+<rect x="545" y="311" width="149" height="27" rx="13.5" fill="#40272E"/>
+<path d="M2 2h12v12H2zM5 11V5h3v3H5m7 0h-2v1h2v2h-2" transform="translate(553 318) scale(.78)" fill="none" stroke="#FFA6AE" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="569" y="329.5" font-size="14" fill="#FFF2F3">Adobe Photoshop</text>
+</g>
+</svg>
