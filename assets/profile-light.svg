@@ -4,7 +4,7 @@
 <path d="M39 18H302L326 42V310Q326 332 304 332H40L17 309V40Q17 18 39 18Z" fill="#211317"/>
 <path d="M17 49V40Q17 18 39 18H57M302 18L326 42V62" fill="none" stroke="#9A354B" stroke-opacity=".65" stroke-width="2"/>
 <g font-family="Consolas, Liberation Mono, monospace">
-  <text x="39" y="42" font-size="11" letter-spacing="1.1" fill="#EA8D98">01 / RETRATO ASCII</text>
+  <text x="39" y="42" font-size="11" letter-spacing="1.1" fill="#EA8D98">01 / HELLO WORLD</text>
   <g font-size="6.8"><text x="152.10 156.00 159.90 163.80 167.70 171.60 175.50 179.40 183.30 187.20 191.10 195.00" y="67.90" fill="#A94A55">XXXXGXXGXGHB</text>
 <text x="198.90" y="67.90" fill="#D06770">#</text>
 <text x="136.50" y="73.80" fill="#78343C">s</text>
