@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="225" height="64" viewBox="0 -14 225 64">
+
+<path d="M16 1H218L224 7V34Q224 49 209 49H7L1 43V16Q1 1 16 1Z" fill="#40272E" stroke="#FFA6AE" stroke-opacity=".55"/>
+<path d="M218 1l6 6M1 43l6 6" fill="none" stroke="#FFA6AE" stroke-width="1.5"/>
+<rect x="12" y="10" width="30" height="30" rx="10" fill="#27191E"/>
+<path d="M19 21h6l2 2h8v9H19Z" fill="none" stroke="#FFA6AE" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="52" y="30" fill="#FFF2F3" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Ver repositórios</text>
+<path d="M189 25h15m-5-5 5 5-5 5" fill="none" stroke="#FFA6AE" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>
